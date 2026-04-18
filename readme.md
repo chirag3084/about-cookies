@@ -1,4 +1,4 @@
-# about cookies project
+# About Cookies Project
 # How to set, get and delete cookie
 
 ```text
